@@ -1,1 +1,0 @@
-This is just the segmentation algorithm. Append it wherever there is necisity in ur classification algorithm and train the model.
